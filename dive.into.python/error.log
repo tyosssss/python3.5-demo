@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "G:/Code/github/77681649/python.demo/dive.into.python/10.8.py", line 12, in <module>
+    raise Exception("哈哈")
+Exception: 哈哈
